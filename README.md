@@ -18,7 +18,6 @@ This project is built as an **academic + real-world project**, demonstrating rol
   - Freelancer
   - Admin
 - Protected routes for each role
-
 ---
 
 ### 👜 Freelancer Features
