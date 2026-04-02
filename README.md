@@ -6,7 +6,6 @@ It allows freelancers to create and manage service gigs, clients to browse and p
 An **admin panel** is included for platform monitoring and moderation.
 
 This project is built as an **academic + real-world project**, demonstrating role-based systems, CRUD operations, dashboards, and real-time features.
-
 ---
 
 ## 📌 Key Features
